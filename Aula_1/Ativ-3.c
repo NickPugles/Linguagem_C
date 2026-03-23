@@ -4,7 +4,7 @@
 
 #define PI 3.1415 //Constante
 
-int main({
+int main(){
 	char letra = 'B';
 	printf("Sua letra e: %c", letra);
 	return 0;
