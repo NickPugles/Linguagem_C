@@ -11,7 +11,7 @@
 int main(){
 	double num =  3.141592;
 	
-	printf("O valor do numero com quatro casas decimais e %.4lf", num);
+	printf("O valor do numero com quatro casas decimais e %.4f", num);
 	
 	return 0;
 }
